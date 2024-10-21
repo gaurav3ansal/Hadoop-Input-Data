@@ -1,0 +1,829 @@
+AARTIIND24JUN800CE	02.80
+AARTIIND24MAY800CE	00.35
+AARTIIND24MAY750CE	00.80
+AARTIIND24MAY710CE	04.60
+AARTIIND24MAY700CE	01.95		AARTIIND24MAY700PE	06.00
+								AARTIIND24AUG650PE	01.25
+								AARTIIND24MAY650PE	02.00
+								AARTIIND24AUG630PE	00.75
+								AARTIIND24AUG600PE	00.15
+								AARTIIND24MAY600PE	00.70
+								AARTIIND24JUN600PE	11.75
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ABB24AUG9000CE	27.00 / 23.15 / 
+ABB24JUL9000CE	33.95 (540.20 tak high gaya, fir neeche aata gaya 06.20 )
+ABB24MAY9000CE	25.25
+ABB24MAY8500CE	74.30
+ABB24MAY8300CE	120.00
+ABB24MAY8000CE	37.95		ABB24JUL8000PE		40.00
+							ABB24MAY8000PE		93.00
+ABB24MAY7500CE	17.15		ABB24MAY7500PE		27.00
+ABB24MAY7000CE	64.50		ABB24MAY7000PE		06.00		
+							ABB24MAY6250PE		00.55
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ABBOTINDIA24JUL29000CE	114.65
+ABBOTINDIA24MAY28000CE	126.60
+ABBOTINDIA24MAY27000CE	251.75
+									ABBOTINDIA24MAY26000PE		176.65
+									ABBOTINDIA24JUN25000PE		300.00
+									ABBOTINDIA24MAY25000PE		62.40
+									ABBOTINDIA24MAY24000PE		20.05
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ABCAPITAL24JUN250CE		03.40
+ABCAPITAL24MAY250CE		00.55
+ABCAPITAL24MAY240CE		01.20
+ABCAPITAL24MAY230CE		01.90
+ABCAPITAL24MAY220CE		00.65		ABCAPITAL24MAY220PE		02.00
+									ABCAPITAL24MAY210PE		00.90
+									ABCAPITAL24MAY200PE		00.40
+									ABCAPITAL24JUN200PE		01.85
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ABFRL24MAY300CE		00.60
+ABFRL24MAY290CE		01.00
+ABFRL24MAY280CE		01.10
+ABFRL24MAY270CE		00.85
+ABFRL24JUN250CE		04.20
+									ABFRL24MAY260PE		04.80
+									ABFRL24MAY250PE		02.10
+									ABFRL24JUN250PE		08.10
+									ABFRL24MAY240PE		01.45
+									ABFRL24MAY230PE		00.75
+									ABFRL24JUN230PE		04.50
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ACC24JUN2800CE	30.00
+ACC24JUN2700CE	33.00
+ACC24JUN2600CE	57.00
+ACC24MAY2600CE	08.30		
+ACC24JUN2500CE	82.00		
+ACC24JUN2400CE	11.20		ACC24MAY2400PE	18.80							
+ACC24JUN2300PE	33.00		ACC24JUN2400PE	51.00
+							ACC24JUN2200PE	17.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ADANIENT24JUN3600CE		62.40
+ADANIENT24JUN3500CE		81.00
+ADANIENT24MAY3300CE		06.10		
+ADANIENT24JUN3200CE		132.10		
+ADANIENT24JUN3100CE		163.00		
+ADANIENT24MAY3000CE		35.35		
+ADANIENT24JUN3000CE		190.00		ADANIENT24JUN3000PE		162.00
+									ADANIENT24JUN2900PE		123.70	
+									ADANIENT24JUN2800PE		92.20
+									ADANIENT24JUN2500PE		76.25
+									ADANIENT24MAY2500PE		10.10
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ADANIPORTS24JUN1400CE	38.55
+ADANIPORTS24MAY1400CE	04.00
+ADANIPORTS24MAY1300CE	20.00		ADANIPORTS24JUN1300PE	54.00
+									ADANIPORTS24MAY1300PE	16.00
+									ADANIPORTS24JUN1200PE	22.90
+									ADANIPORTS24MAY1200PE	03.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ALKEM24MAY5700CE	02.50
+ALKEM24MAY5500CE	13.10
+									ALKEM24SEP5000PE	51.00
+									ALKEM24AUG5000PE	20.45
+									ALKEM24MAY5000PE	34.45
+									ALKEM24AUG4900PE	14.50
+									ALKEM24MAY4900PE	21.65
+									ALKEM24SEP4800PE	60.00
+									ALKEM24AUG4800PE	11.55
+									ALKEM24JUN4800PE	70.00
+									ALKEM24MAY4800PE	13.20
+									ALKEM24SEP4700PE	42.00
+									ALKEM24AUG4700PE	07.35
+									ALKEM24MAY4700PE	10.00
+									ALKEM24JUN4500PE	24.70
+									ALKEM24JUN4400PE	57.00
+									ALKEM24JUN4200PE	10.55
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+AMBUJACEM24MAY650CE	01.65			
+AMBUJACEM24JUN600CE	26.45			AMBUJACEM24MAY600PE	05.10
+									AMBUJACEM24JUN600PE	18.10
+									AMBUJACEM24MAY590PE	03.40
+									AMBUJACEM24JUN580PE	11.60
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+APOLLOHOSP24JUN6600CE	81.50
+APOLLOHOSP24JUN6500CE	64.60
+APOLLOHOSP24JUN6200CE	126.00
+APOLLOHOSP24MAY6000CE	51.50
+APOLLOHOSP24JUN6000CE	223.1
+									APOLLOHOSP24MAY5800PE	28.00
+									APOLLOHOSP24JUN5500PE	60.00
+									APOLLOHOSP24JUN5200PE	27.45
+									APOLLOHOSP24JUN5000PE	10.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+APOLLOTYRE24JUL550CE	02.25
+APOLLOTYRE24JUN550CE	04.85
+APOLLOTYRE24MAY550CE	00.85
+APOLLOTYRE24JUN520CE	11.45
+APOLLOTYRE24MAY520CE	02.15
+APOLLOTYRE24MAY510CE	02.95
+APOLLOTYRE24JUN500CE	12.65
+APOLLOTYRE24MAY500CE	04.15
+APOLLOTYRE24MAY480CE	11.00		APOLLOTYRE24MAY480PE	04.20
+									APOLLOTYRE24MAY470PE	02.90
+									APOLLOTYRE24AUG450PE	01.85
+									APOLLOTYRE24JUN450PE	05.50
+									APOLLOTYRE24MAY450PE	01.40
+									APOLLOTYRE24MAY440PE	01.10
+									APOLLOTYRE24MAY400PE	00.05/00.30
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ASHOKLEY24JUN220CE		04.20
+ASHOKLEY24MAY220CE		00.80
+ASHOKLEY24MAY215CE		01.10
+ASHOKLEY24JUN210CE		01.80
+ASHOKLEY24MAY210CE		01.45
+ASHOKLEY24MAY200CE		00.70		ASHOKLEY24MAY200PE		02.95
+									ASHOKLEY24MAY195PE		01.65
+									ASHOKLEY24JUN190PE		03.90
+									ASHOKLEY24MAY190PE		00.95
+									ASHOKLEY24MAY185PE		00.50
+									ASHOKLEY24JUN180PE		01.90
+									ASHOKLEY24MAY180PE		00.30
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ASIANPAINT24JUN3200CE	09.45
+ASIANPAINT24JUN3100CE	14.00
+ASIANPAINT24JUN3000CE	20.95
+ASIANPAINT24MAY3000CE	05.60
+ASIANPAINT24MAY2900CE	10.00		ASIANPAINT24MAY2900PE	28.55
+ASIANPAINT24MAY2800CE	21.95		ASIANPAINT24JUN2800PE	37.00
+									ASIANPAINT24MAY2800PE	11.95
+									ASIANPAINT24JUN2700PE	31.05
+									ASIANPAINT24MAY2700PE	05.15
+									ASIANPAINT24JUN2600PE	10.00
+									ASIANPAINT24MAY2600PE	02.15
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ASTRAL24JUL2500CE	06.30
+ASTRAL24JUL2400CE	14.05
+ASTRAL24JUN2400CE	28.95
+ASTRAL24MAY2400CE	04.05
+ASTRAL24JUN2300CE	29.80
+ASTRAL24MAY2300CE	08.95
+ASTRAL24JUN2200CE	68.65
+ASTRAL24MAY2200CE	11.00		ASTRAL24JUL2200PE	10.05
+ASTRAL24MAY2100CE	26.85		ASTRAL24JUN2100PE	68.00
+								ASTRAL24MAY2100PE	26.75
+								ASTRAL24JUN2000PE	25.00
+								ASTRAL24MAY2000PE	10.50
+								ASTRAL24JUN1900PE	13.00
+								ASTRAL24MAY1900PE	04.80
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ATUL24MAY7000CE		06.10
+ATUL24MAY6500CE		21.50
+								ATUL24MAY6000PE		61.60
+								ATUL24MAY5900PE		45.00
+								ATUL24MAY5800PE		25.05
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+AUBANK24JUN740CE	05.00
+AUBANK24JUN700CE	07.00
+AUBANK24MAY700CE	01.80
+AUBANK24JUN650CE	16.10
+AUBANK24MAY650CE	07.30
+AUBANK24MAY640CE	09.80
+								AUBANK24MAY620PE	06.05
+								AUBANK24JUN600PE	15.00
+								AUBANK24MAY600PE	02.80
+								AUBANK24JUN550PE	04.45
+								AUBANK24MAY550PE	00.50
+								AUBANK24JUN500PE	00.70
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+AUROPHARMA24JUN1260CE	21.80
+AUROPHARMA24JUN1200CE	28.80
+AUROPHARMA24MAY1200CE	09.95											
+								AUROPHARMA24JUN1100PE	23.45
+								AUROPHARMA24MAY1100PE	09.45
+								AUROPHARMA24MAY1060PE	05.10
+								AUROPHARMA24JUN1000PE	08.65
+								AUROPHARMA24MAY1000PE	01.50
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+AXISBANK24JUL1300CE		05.45	AXISBANK24JUL1300PE		15.75
+AXISBANK24JUN1200CE		14.60	AXISBANK24JUL1200PE		02.35
+AXISBANK24MAY1200CE		01.70
+AXISBANK24MAY1150CE		03.05	
+								AXISBANK24JUN1100PE		15.90
+								AXISBANK24MAY1100PE		06.05
+								AXISBANK24MAY1050PE		02.55
+								AXISBANK24MAY1000PE		01.10
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BAJAJ-AUTO24JUN10000CE	56.00
+BAJAJ-AUTO24MAY10000CE	12.30
+BAJAJ-AUTO24MAY9500CE	38.00
+BAJAJ-AUTO24JUN9000CE	253.55	BAJAJ-AUTO24MAY9000PE	127.20
+								BAJAJ-AUTO24JUN8500PE	182.60
+								BAJAJ-AUTO24MAY8500PE	26.55
+								BAJAJ-AUTO24MAY8200PE	11.65
+								BAJAJ-AUTO24JUN8000PE	43.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BAJAJFINSV24MAY1800CE	01.05
+BAJAJFINSV24JUN1700CE	30.00
+BAJAJFINSV24MAY1700CE	04.10
+								BAJAJFINSV24JUN1600PE	22.40
+								BAJAJFINSV24MAY1600PE	05.95
+								BAJAJFINSV24JUN1500PE	04.60
+								BAJAJFINSV24MAY1500PE	02.50
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BAJFINANCE24JUN7500CE	65.25
+BAJFINANCE24MAY7500CE	11.25
+BAJFINANCE24JUN7000CE	175.00
+BAJFINANCE24MAY7000CE	47.00	BAJFINANCE24MAY7000PE	48.05
+								BAJFINANCE24JUN6500PE	45.10
+								BAJFINANCE24MAY6500PE	10.00
+								BAJFINANCE24JUN6000PE	15.00
+								
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BALKRISIND24MAY2600CE		11.00
+BALKRISIND24MAY2500CE		24.00
+												BALKRISIND24MAY2400PE		36.05
+												BALKRISIND24MAY2300PE		15.00
+												BALKRISIND24MAY2200PE		06.50
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BALRAMCHIN24MAY420CE	01.70
+BALRAMCHIN24MAY410CE	01.40
+BALRAMCHIN24MAY400CE	03.05
+									BALRAMCHIN24MAY400PE	12.25
+									BALRAMCHIN24MAY380PE	05.50
+									BALRAMCHIN24MAY370PE	03.40
+									BALRAMCHIN24MAY360PE	02.00
+									BALRAMCHIN24MAY350PE	00.20
+									BALRAMCHIN24MAY340PE	00.65
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BANDHANBNK24JUN220CE	02.25
+BANDHANBNK24MAY210CE	00.95
+BANDHANBNK24MAY200CE	01.90				
+BANDHANBNK24JUN200CE	05.60		BANDHANBNK24MAY200PE	10.15
+BANDHANBNK24MAY190CE	03.45		BANDHANBNK24MAY190PE	05.85
+									BANDHANBNK24MAY180PE	02.75
+									BANDHANBNK24MAY170PE	01.10
+									BANDHANBNK24MAY160PE	00.45
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BANKBARODA24MAY300CE	00.70
+BANKBARODA24MAY280CE	01.75
+BANKBARODA24MAY270CE	03.15
+									BANKBARODA24MAY260PE	02.30
+									BANKBARODA24MAY250PE	01.15
+									BANKBARODA24MAY240PE	00.60
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+									BATAINDIA24AUG1600PE	39.20
+BATAINDIA24MAY1400CE	06.95
+									BATAINDIA24MAY1300PE	12.95
+									BATAINDIA24MAY1250PE	06.40
+									BATAINDIA24MAY1200PE	02.75
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+BEL24MAY280CE	02.00
+BEL24JUN270CE	01.15/03.50
+BEL24MAY270CE	00.45
+BEL24JUN260CE	01.75/05.10
+BEL24MAY260CE	00.90
+BEL24JUN250CE	02.70/06.30
+BEL24MAY250CE	00.10/01.00/01.60
+BEL24JUN240CE	04.05/09.60
+BEL24MAY240CE	03.05
+								BEL24JUN240PE	08.00
+								BEL24MAY240PE	02.75
+								BEL24JUN230PE	05.35
+								BEL24MAY230PE	01.10
+								BEL24MAY225PE	03.45
+								BEL24JUN220PE	03.25
+								BEL24MAY215PE	01.50
+								BEL24JUN210PE	01.95
+								BEL24JUN200PE	01.30
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BERGEPAINT24MAY600CE		00.25
+BERGEPAINT24MAY550CE		00.95
+BERGEPAINT24MAY500CE		06.45				BERGEPAINT24MAY500PE		01.95
+												BERGEPAINT24MAY480PE		01.95
+												BERGEPAINT24MAY460PE		00.90
+												BERGEPAINT24MAY450PE		00.45
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BHARATFORG24JUL1700CE		12.20				BHARATFORG24JUL1700PE		38.10
+												BHARATFORG24JUL1600PE		11.70
+BHARATFORG24MAY1500CE		06.80				BHARATFORG24JUL1500PE		03.00
+BHARATFORG24MAY1450CE		03.00
+BHARATFORG24MAY1400CE		05.85				BHARATFORG24MAY1400PE		15.25
+												BHARATFORG24MAY1300PE		04.00
+												BHARATFORG24MAY1200PE		01.75
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BHARTIARTL24MAY1400CE		01.80
+BHARTIARTL24MAY1360CE		06.25
+BHARTIARTL24MAY1350CE		04.05
+BHARTIARTL24MAY1320CE		12.90
+BHARTIARTL24MAY1300CE		10.05
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BIOCON24JUN350CE			02.30
+BIOCON24MAY330CE			02.30				BIOCON24MAY300PE			04.55
+												BIOCON24JUN300PE			10.40
+												BIOCON24MAY290PE			02.60
+												BIOCON24MAY250PE			00.35
+												BIOCON24JUN250PE			01.80
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BOSCHLTD24MAY32000CE	140.00				
+									BOSCHLTD24MAY28500PE	181.40
+									BOSCHLTD24MAY28000PE	140.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++stock split on 15 may 24
+BRITANNIA24MAY5600CE	01.00
+BRITANNIA24MAY5500CE	04.30		BRITANNIA24AUG5500PE	23.25
+BRITANNIA24MAY5400CE	07.85
+BRITANNIA24MAY5300CE	13.30		BRITANNIA24AUG5300PE	32.00
+BRITANNIA24MAY5200CE	14.00
+BRITANNIA24MAY5100CE	24.00
+BRITANNIA24MAY5000CE	40.00		BRITANNIA24MAY5000PE	32.20
+									BRITANNIA24MAY5000PE	17.00
+									BRITANNIA24JUN4800PE	35.00
+									BRITANNIA24MAY4800PE	08.65
+									BRITANNIA24JUN4700PE	33.90
+									BRITANNIA24MAY4700PE	03.95
+									BRITANNIA24MAY4600PE	02.35
+									BRITANNIA24JUN4500PE	16.45
+									BRITANNIA24MAY4500PE	01.00
+									BRITANNIA24MAY4400PE	01.05
+									BRITANNIA24MAY4300PE	00.25
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++									
+CANBK24JUN120CE		04.00
+CANBK24MAY580CE		04.30
+CANBK24MAY600CE		02.00			CANBK24MAY600PE		09.25
+CANBK24MAY650CE		00.50			CANBK24MAY550PE		02.00
+CANBK24MAY700CE		00.35			CANBK24MAY530PE		01.05
+									CANBK24MAY500PE		00.05
+									CANBK24JUN112PE		03.60
+									CANBK24JUN110PE		03.75
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	
+									CHAMBLFERT24AUG410PE	04.50
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+CIPLA24MAY1500CE	03.10
+CIPLA24MAY1400CE	11.35			CIPLA24MAY1400PE	14.45
+									CIPLA24MAY1300PE	03.55
+									CIPLA24MAY1200PE	00.75
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	
+									COLPAL24AUG2900PE		23.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+COALINDIA24JUL515CE		02.25
+COALINDIA24JUN500CE		07.00
+COALINDIA24MAY500CE		01.45
+COALINDIA24MAY490CE		01.80
+COALINDIA24MAY480CE		02.80
+COALINDIA24MAY470CE		04.10
+									COALINDIA24MAY460PE	06.40
+									COALINDIA24MAY450PE	04.25
+									COALINDIA24MAY440PE	02.80
+									COALINDIA24MAY420PE	01.25
+									COALINDIA24MAY400PE	00.70
+									COALINDIA24JUN400PE	03.20
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+COFORGE24JUL6000CE		33.95		COFORGE24AUG6000PE	122.20
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+COLPAL24JUN3100CE	12.00
+COLPAL24JUN3000CE	15.10
+COLPAL24MAY3000CE	05.05
+COLPAL24MAY2900CE	09.05
+COLPAL24MAY2800CE	18.00												
+								COLPAL24MAY2700PE	18.00
+								COLPAL24JUN2520PE	16.75	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++									
+CROMPTON24MAY385CE		00.60		CROMPTON24MAY385PE		08.10
+CROMPTON24JUN380CE		00.30
+CROMPTON24MAY380CE		00.90		CROMPTON24MAY380PE		06.40
+CROMPTON24MAY370CE		01.50		CROMPTON24MAY370PE		03.85
+CROMPTON24MAY360CE		02.40		CROMPTON24MAY360PE		02.15
+CROMPTON24MAY350CE		02.75		CROMPTON24MAY350PE		01.35
+									CROMPTON24JUN340PE		05.00
+									CROMPTON24JUN330PE		03.20
+									CROMPTON24JUN320PE		03.00
+									CROMPTON24JUN300PE		01.50
+									CROMPTON24JUN290PE		00.70
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++										    
+CUB24MAY180CE	00.15
+CUB24JUN170CE	02.20
+CUB24JUN160CE	04.55
+CUB24MAY160CE	01.25												
+CUB24MAY165CE	00.80												
+CUB24MAY155CE	02.15		CUB24MAY155PE	02.75
+							CUB24MAY150PE	01.55
+							CUB24MAY145PE	00.85
+							CUB24JUN140PE	01.60
+							CUB24MAY140PE	00.55
+							CUB24JUN135PE	01.80
+							CUB24MAY135PE	00.30
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+CUMMINSIND24AUG4000CE	11.70
+CUMMINSIND24AUG3800CE	28.45
+CUMMINSIND24MAY3800CE	19.60
+CUMMINSIND24MAY3700CE	33.00
+CUMMINSIND24MAY3600CE	28.35
+									CUMMINSIND24AUG3500PE	24.95
+									CUMMINSIND24MAY3400PE	13.45
+									CUMMINSIND24MAY3300PE	07.95
+									CUMMINSIND24JUN3200PE	15.00
+									CUMMINSIND24MAY3200PE	04.35
+									CUMMINSIND24MAY3100PE	03.45
+									CUMMINSIND24AUG3000PE	02.90
+									CUMMINSIND24JUN3000PE	45.00
+									CUMMINSIND24MAY3000PE	02.30			
+									CUMMINSIND24MAY2900PE	01.05
+									CUMMINSIND24JUN2800PE	22.10
+									CUMMINSIND24JUN2760PE	19.65
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DABUR24JUN600CE		04.00
+DABUR24MAY600CE		00.45
+DABUR24MAY590CE		00.60
+DABUR24MAY580CE		00.80	
+DABUR24MAY570CE		01.05
+DABUR24MAY560CE		01.70
+DABUR24JUN550CE		06.00
+DABUR24MAY550CE		02.35
+DABUR24MAY540CE		03.25
+DABUR24MAY530CE		04.35		
+									DABUR24MAY530PE		01.60
+									DABUR24MAY520PE		01.00
+									DABUR24JUN500PE		03.80
+									DABUR24MAY500PE		00.60
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DEEPAKNTR24MAY2900CE	02.40
+DEEPAKNTR24MAY2800CE	06.25
+DEEPAKNTR24MAY2700CE	12.95
+DEEPAKNTR24JUN2600CE	67.00
+DEEPAKNTR24MAY2600CE	15.00
+DEEPAKNTR24MAY2500CE	24.00		
+									DEEPAKNTR24MAY2500PE	48.50
+									DEEPAKNTR24MAY2400PE	24.05
+									DEEPAKNTR24MAY2300PE	10.95
+									DEEPAKNTR24JUN2300PE	47.95
+									DEEPAKNTR24JUN2200PE	18.75
+									DEEPAKNTR24MAY2200PE	05.40
+									DEEPAKNTR24MAY2100PE	01.20
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DIVISLAB24AUG5000CE		21.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+									DIXON24AUG10000PE	45.00
+DIXON24MAY9500CE		10.25
+DIXON24JUN9000CE		211.50
+DIXON24MAY9000CE		29.20
+DIXON24JUN8500CE		340.00		DIXON24MAY8500PE	78.95
+									DIXON24JUN8200PE	172.80
+									DIXON24JUN8000PE	135.00
+									DIXON24MAY8000PE	29.30
+									DIXON24MAY7500PE	00.60								
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DRREDDY24AUG7000CE		79.50
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+EICHERMOT24MAY5000CE	17.20
+EICHERMOT24MAY4800CE	24.80
+EICHERMOT24MAY4700CE	40.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+GAIL24JUL240CE		01.35
+GAIL24MAY220CE		00.85
+GAIL24MAY215CE		01.15
+GAIL24MAY210CE		01.60
+GAIL24MAY200CE		03.20			GAIL24MAY200PE		02.90
+									GAIL24MAY190PE		01.15
+									GAIL24MAY185PE		00.70
+									GAIL24MAY175PE		00.30
+									GAIL24MAY165PE		00.25
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+GRANULES24MAY500CE		00.15
+GRANULES24MAY450CE		01.20
+GRANULES24JUN430CE		09.00
+GRANULES24MAY420CE		03.10		GRANULES24MAY420PE		10.70
+GRANULES24MAY400CE		09.05		GRANULES24MAY400PE		03.30
+GRANULES24JUN450CE		05.50		GRANULES24JUN400PE		10.00
+									GRANULES24MAY390PE		02.85
+									GRANULES24MAY380PE		01.60
+									GRANULES24JUN380PE		08.75
+									GRANULES24MAY360PE		00.30
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+GRASIM24MAY2500CE	04.65
+								GRASIM24MAY2400PE	23.60
+								GRASIM24MAY2300PE	07.25
+								GRASIM24MAY2200PE	02.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+HAL24JUL6000CE	35.20
+HAL24AUG5500CE	12.15
+HAL24JUL5500CE	57.00
+HAL24AUG5000CE	45.00
+HAL24JUL5000CE	99.50		HAL24JUL5000PE	23.20
+HAL24MAY4500CE	11.60
+HAL24MAY4300CE	21.15
+HAL24MAY4200CE	30.00
+HAL24MAY4100CE	41.45		
+HAL24MAY4000CE	53.10		HAL24SEP4400PE	65.00
+							HAL24AUG4000PE  09.10
+							HAL24MAY4000PE	16.00
+							HAL24JUN4000PE	47.90
+							HAL24MAY3800PE	42.30
+							HAL24MAY3700PE	26.40
+							HAL24MAY3600PE	15.70
+							HAL24MAY3500PE	09.90
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+HAVELLS24JUN1920CE	06.95
+HAVELLS24MAY1920CE	02.75
+HAVELLS24JUN1840CE	20.20
+HAVELLS24JUN1800CE	17.35
+HAVELLS24MAY1800CE	09.50
+HAVELLS24JUN1700CE	32.75	HAVELLS24AUG1700PE  12.70 / 16.00
+HAVELLS24MAY1700CE	08.00	HAVELLS24JUN1700PE	58.00
+							HAVELLS24MAY1700PE	09.60
+							HAVELLS24MAY1600PE	02.05
+							HAVELLS24JUN1500PE	15.85
+							HAVELLS24MAY1500PE	00.75
+							HAVELLS24JUN1400PE	05.35
+							HAVELLS24MAY1400PE	00.65
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+HCLTECH24JUN1500CE	08.00
+HCLTECH24MAY1500CE	01.80
+HCLTECH24JUN1400CE	27.80
+HCLTECH24MAY1400CE	06.10
+								HCLTECH24JUN1300PE	20.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+HDFCBANK24JUL1700CE		06.35
+									HDFCBANK24JUL1600PE		02.15
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+HEROMOTOCO24MAY5000CE	10.05
+HEROMOTOCO24MAY4800CE	20.00		HEROMOTOCO24MAY4800PE	28.50
+									HEROMOTOCO24MAY4400PE	05.80
+									HEROMOTOCO24MAY4350PE	05.00
+									HEROMOTOCO24MAY4200PE	04.00
+									HEROMOTOCO24MAY4000PE	02.45
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+HINDCOPPER24MAY400CE	03.45
+HINDCOPPER24AUG400CE	03.35
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+HINDUNILVR24JUL2600CE	10.05		
+									HINDUNILVR24AUG2500PE	09.10
+									HINDUNILVR24SEP2400PE	10.00
+									HINDUNILVR24AUG2400PE	05.50
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+IGL24MAY500CE				01.15
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+INDIACEM24JUL300CE	03.50
+INDIACEM24MAY280CE	00.05
+INDIACEM24MAY250CE	00.30
+INDIACEM24JUN240CE	03.65
+INDIACEM24MAY240CE	00.40
+INDIACEM24JUL230CE	01.65 (05 jun 24) (L: 181.20)
+INDIACEM24JUN230CE	05.05
+INDIACEM24MAY230CE	01.15			INDIACEM24MAY230PE	09.75
+									INDIACEM24MAY220PE	05.50
+									INDIACEM24MAY210PE	02.85
+									INDIACEM24JUN200PE	04.50
+									INDIACEM24MAY200PE	01.60
+									INDIACEM24MAY190PE	00.60
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+									INDIAMART24AUG2700PE	10.55
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++									
+INDUSINDBK24JUN1600CE	12.00
+INDUSINDBK24MAY1600CE	00.55		INDUSINDBK24MAY1600PE	54.90
+INDUSINDBK24AUG1500CE	02.55
+INDUSINDBK24JUN1500CE	31.25		INDUSINDBK24JUN1500PE	47.00
+INDUSINDBK24MAY1500CE	04.65
+INDUSINDBK24SEP1400CE	30.05
+INDUSINDBK24AUG1400CE	12.60		INDUSINDBK24MAY1500PE	18.60
+INDUSINDBK24JUN1400CE	71.00		INDUSINDBK24JUN1400PE	13.00
+									INDUSINDBK24MAY1400PE	05.25
+									INDUSINDBK24SEP1300PE	08.20
+									INDUSINDBK24AUG1300PE	03.30
+									INDUSINDBK24MAY1300PE	01.50
+									INDUSINDBK24JUN1300PE	06.50
+									INDUSINDBK24MAY1200PE	00.50
+									INDUSINDBK24JUN1200PE	02.20
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+INDUSTOWER24MAY400CE	00.70
+INDUSTOWER24MAY360CE	02.50
+INDUSTOWER24MAY350CE	03.70
+
+									INDUSTOWER24MAY320PE	02.55
+									INDUSTOWER24MAY300PE	00.85
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+IPCALAB24AUG1400CE	06.80			IPCALAB24SEP1200PE		11.35
+									IPCALAB24AUG1200PE		03.95
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+IRCTC24MAY1100CE	05.35
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ITC24JUL460CE		00.95
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+JINDALSTEL24AUG1100CE		09.05
+JINDALSTEL24AUG1000CE		05.20
+JINDALSTEL24MAY1000CE		08.70
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+JSWSTEEL24JUL950CE		09.60
+									JSWSTEEL24JUL920PE		10.35
+									JSWSTEEL24JUL910PE		07.75
+JSWSTEEL24MAY900CE		07.50		JSWSTEEL24JUL900PE		05.65
+									JSWSTEEL24AUG840PE		04.80
+									JSWSTEEL24AUG800PE		02.00
+									
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+									KOTAKBANK24SEP1600PE	05.05
+									KOTAKBANK24AUG1600PE	03.05
+									KOTAKBANK24AUG1700PE	10.30
+									KOTAKBANK24AUG1800PE	28.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LALPATHLAB24AUG3300CE	20.05
+LALPATHLAB24AUG3200CE	45.15
+									LALPATHLAB24AUG2800PE	13.45
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++		
+LAURUSLABS24AUG450CE	04.40
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++							
+									LICHSGFIN24AUG800PE		29.00
+LICHSGFIN24MAY760CE		00.05
+LICHSGFIN24JUN740CE		06.40
+LICHSGFIN24JUN700CE		11.00
+LICHSGFIN24MAY700CE		01.35
+LICHSGFIN24MAY680CE		03.25		LICHSGFIN24AUG680PE		02.00
+
+LICHSGFIN24JUN650CE		26.40		LICHSGFIN24JUN650PE		21.00
+									LICHSGFIN24MAY650PE		07.20
+									LICHSGFIN24JUN640PE		18.75
+									LICHSGFIN24MAY640PE		04.55
+									LICHSGFIN24JUN600PE		08.05
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+									LTF24AUG160PE		01.50
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LTIM24AUG5700CE		33.50
+									LTIM24AUG5000PE		06.15
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++									
+LTTS24JUL5200CE		47.00
+LTTS24JUL5100CE		64.25
+LTTS24JUL5000CE		70.00			LTTS24JUL5000PE		94.85
+									LTTS24JUL4900PE		69.50
+									LTTS24JUL4800PE		42.05
+									LTTS24JUL4700PE		28.00
+									LTTS24JUL4600PE		18.05
+									LTTS24JUL4500PE		10.65
+									LTTS24JUL4400PE		05.55
+									LTTS24JUL4300PE		02.85
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MANAPPURAM24AUG190PE	02.05
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MARUTI24JUL14000CE		05.50
+MARUTI24JUL13500CE		11.20
+MARUTI24JUL13000CE		26.35
+									MARUTI24JUL12500PE		50.65
+									MARUTI24JUL12000PE		22.45
+									MARUTI24JUL11500PE		10.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MRF24AUG142500CE	1054.00
+MRF24AUG142000CE	970.00
+MRF24AUG141000CE	1200.00
+MRF24AUG140000CE	1058.55
+MRF24AUG139000CE	1625.00
+MRF24AUG138000CE	1834.50
+MRF24AUG137000CE	2200.00
+MRF24AUG136000CE	2379.85
+MRF24AUG135000CE	2690.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+M&M24MAY2240CE		10.80
+M&M24MAY2300CE		27.75
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NATIONALUM24SEP200CE		02.75
+NATIONALUM24AUG200CE		00.95
+NATIONALUM24MAY190CE		01.35
+NATIONALUM24AUG185CE		02.50
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MARUTI24MAY13000CE			64.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+MPHASIS24JUL2800CE			10.60
+MPHASIS24MAY2400CE			12.80
+										MPHASIS24AUG2345PE		06.00
+										MPHASIS24MAY2200PE		09.80
+										MPHASIS24JUN2200PE		44.00
+										MPHASIS24MAY2000PE		02.20
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NAUKRI24MAY7000CE	04.05
+NAUKRI24JUN6500CE	77.00
+NAUKRI24MAY6500CE	13.35
+NAUKRI24MAY6400CE	20.85
+NAUKRI24MAY6300CE	27.00
+NAUKRI24MAY6200CE	34.75		
+							NAUKRI24JUN6000PE	160.00
+							NAUKRI24MAY6000PE	62.15
+							NAUKRI24MAY5800PE	31.40
+							NAUKRI24JUN5700PE	102.00
+							NAUKRI24MAY5700PE	20.90
+							NAUKRI24MAY5600PE	15.15
+							NAUKRI24MAY5500PE	11.50
+							NAUKRI24MAY5400PE	06.05
+							NAUKRI24MAY5300PE	05.25
+							NAUKRI24MAY5200PE	04.80
+							NAUKRI24MAY5000PE	00.15
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++							
+NAVINFLUOR24MAY3500CE		21.20
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NMDC24AUG270CE		00.90
+NMDC24MAY270CE		02.20
+NMDC24AUG260CE		01.50
+NMDC24AUG250CE		02.70		NMDC24AUG250PE		08.65
+								NMDC24AUG240PE		04.40
+								NMDC24AUG230PE		02.10
+								NMDC24AUG220PE		01.05
+								NMDC24AUG210PE		00.50
+								NMDC24AUG200PE		00.25
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+OBEROIRLTY24MAY1600CE		12.65
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+									OFSS24AUG10000PE	45.95
+									OFSS24AUG9500PE		21.00
+									OFSS24AUG9000PE		07.50
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++									
+ONGC24JUL330CE		00.35 / 00.45 / 00.60 / 01.05 / 01.40
+ONGC24MAY300CE		00.90
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PERSISTENT24JUL5000CE		09.75		
+										PERSISTENT24SEP4200PE	60.00
+										PERSISTENT24AUG4200PE	08.00
+										PERSISTENT24AUG4000PE	04.25
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PEL24JUL1000CE		01.20
+PEL24JUL980CE		01.05
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PETRONET24JUN320CE	09.20
+PETRONET24MAY320CE	02.45										
+								PETRONET24JUN300PE	07.55
+								PETRONET24MAY300PE	02.20
+								PETRONET24JUN290PE	04.50
+								PETRONET24MAY290PE	01.00
+								PETRONET24MAY280PE	00.25
+								PETRONET24JUN280PE	03.00
+								PETRONET24JUN270PE	02.35
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++								
+PFC24JUL600CE		01.00 / 01.55
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PNB24MAY140CE		00.25
+PNB24JUN150CE		02.00
+PNB24JUN110PE		00.70
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+POLYCAB24AUG7000CE		79.00		
+									POLYCAB24JUN5400PE	20.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PVRINOX24MAY1200PE	02.30
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+RBLBANK24JUL300CE	00.20
+RBLBANK24JUL270CE	00.35
+								RBLBANK24JUL240PE	01.95
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+RECLTD24JUL650CE	01.20
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+RELIANCE24SEP3100CE		26.90
+RELIANCE24AUG3100CE		09.50
+RELIANCE24SEP3000CE		56.80
+RELIANCE24AUG3000CE		21.25
+								RELIANCE24SEP3000PE		41.95
+								RELIANCE24AUG2900PE		12.80
+								RELIANCE24SEP2800PE		12.40
+								RELIANCE24AUG2800PE		04.65
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SAIL24MAY170CE		01.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SBIN24MAY850CE		02.05
+SBIN24MAY820CE		03.60		
+								SBIN24MAY800PE	10.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SRF24JUN3000CE	03.40
+SRF24MAY2500CE	05.60
+SRF24JUN2300CE	94.80
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SUNTV24JUL900CE		01.50
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SYNGENE24AUG900CE		02.10		
+									SYNGENE24SEP700PE	02.10
+									SYNGENE24AUG700PE	00.60
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TATAPOWER24AUG500CE		01.25
+TATAPOWER24MAY450CE		01.45
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TATASTEEL24JUL180CE		00.65
+TATASTEEL24JUL175CE		01.30
+TATASTEEL24JUL170CE		02.65		TATASTEEL24JUL170PE		01.55
+									TATASTEEL24JUL165PE		00.75
+									TATASTEEL24JUL160PE		00.35
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TCS24JUL4200CE		09.75
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TECHM24AUG1560CE	12.70
+TECHM24JUL1500CE	11.75
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TITAN24AUG3500CE	29.60 / 30.00 / 30.50
+TITAN24AUG3400CE	43.80 / 50.25 / 51.90
+TITAN24JUL3400CE	06.00 / 07.55 / 10.20	 
+TITAN24JUL3300CE	16.05 / 19.85		
+											TITAN24JUL3100PE	05.05									
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TORNTPHARM24AUG3400CE		18.80
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TVSMOTOR24AUG2600CE			25.85
+TVSMOTOR24MAY2100CE			20.05
+TVSMOTOR24MAY2200CE			08.75
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ULTRACEMCO24MAY10000CE		35.20
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VEDL24AUG460CE		06.65
+VEDL24MAY430CE		04.05
+VEDL24MAY440CE		03.40
+VEDL24MAY450CE		02.35
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ZYDUSLIFE24AUG1300CE	06.30		
+									ZYDUSLIFE24SEP1100PE	07.70
+									ZYDUSLIFE24AUG1100PE	02.15
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

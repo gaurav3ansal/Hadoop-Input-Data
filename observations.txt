@@ -1,0 +1,686 @@
+Observations:
+
+bullish moves:
+bandhan: 8.1 - 21.7; 2.25 - 8.65
+cub: 	 3 - 9; 1.4 - 4.25
+pnb:	 6 - 11.1; 2.45 - 4.7
+iex:	 3.85 - 9; 1.95 - 5.05
+dlf: 	 5.5 - 17; 10.8 - 29.5
+
+expiry k 3 din baad agar huge gap up ho to ath se down aayega stock; eg: shriramfin
+expiry k 6 din baad agar gap dwn ho toh kaafi zada dwn jaa sakta h stock; eg: upl
+
+26 jul 24, fri
+
+pattern 00: badi ce candle k baad 2nd chod k 3rd waali candle par ce sell karo. 2nd waali candle 1st se bhot thodi si upar le kar jaayenge operators trap 
+karne k liye. But 3rd waali ko upar le ja k fir neeche le k aate h.
+pattern 01: badi ce candle k baad agar 2nd bhi badi ho jaaye toh 2nd par hi ce sell kar dena h.
+pattern 02: badi ce candle agar 2nd and 3rd k equal ho toh 3rd par trade le lena h.
+
+21 jul 24, sun
+
+bbl ki big movements are 50 50 k 5 boxes = 250 pts. and very big movement is 850/900/950 pts.
+CHENNPETRO ki big move = 150 pts. 
+nmdc ki big move 57.95/16.35/13.85/13.00/12.10/09.73 pts
+
+
+expiry k 3 din baad major change hota h stock me 
+ltf - 30 may and 27 jun 24 ki expiries
+
+
+expiries: 
+28 sep 23	26 oct 23	30 nov 23	28 dec 23	25 jan 24	29 feb 24	28 mar 24	25 apr 24	30 may 24	27 jun 24
+
+20 jul 24, sat
+
+denora - 28-29 day up/dwn cycle
+aparinds - 28-29 day up and 15-16 dwn cycle
+powermech - 23-28-30-31 day up and 30-31 dwn cycle
+pocl - 27 day up and 27 day dwn cycle
+fact - 29 day up cycle and 33 day dwn 
+GET&D-BE: month k start me low h toh high jaayega, high h toh low jaayega; 8-8 day ki cycle 
+PRECWIRE - 21-29 day up, 24-29 dwn
+USHAMART - 29 day up, 30 day dwn
+bls - 25-30 up, 30 dwn
+nfl - 29-30 up, 30 dwn
+PRECAM - 28 day up, 24 dwn / 47 day dwn
+ASHAPURMIN - 30-31 up, 17-19 dwn
+CRAFTSMAN - 21 up, 29-53 dwn
+HMT-BZ - 30 up, 30 dwn
+LUXIND - 29-34 up, 
+HONDAPOWER - 23 up, 39 dwn
+TATACONSUM - 34 up, 30 dwn
+dabur: 34 up, 21 dwn
+tcs: 33-34 up, 
+infy: 34 up, 49 dwn
+hcltech: 34 up, 21 dwn
+titan: only 8/9/11 day up/dwn
+MANAPPURAM: 30 up, 28 dwn
+cipla: 20/23 up, 
+SHRIRAMFIN: 15 up, 20 dwn
+gmrinfra: 11 up, 12 dwn
+ipca: 21 up, 21 dwn
+DRREDDY: 16/21 up, 
+
+
+09 jul 24, tue
+AUROPHARMA24AUG1200PE 14.80 last close (1327.7 - 1338) se 11.80 tak gira (3 pts)
+
+01 jul 24, mon
+bataindia: call sell me 20 pts (62.30 se 42.30); put buy me 4 pts (05.80 se 09.80)
+
+
+10:55 par lowest 28.60: MPHASIS24JUN2400PE
+11:30 lowest 42.85 MIDCPNIFTY2470112200PE
+13:45 par lowest 54.30 BANKNIFTY2461249500PE
+13:45 lowest 16.70 MIDCPNIFTY2461411500PE
+13:45 lowest 22.70 NIFTY2461323000PE
+13:50 lowest 70.75 NIFTY24AUG24000PE 
+14:05 lowest 06.90 MIDCPNIFTY24JUN12000PE 15:00 par 07.00
+14:22 par lowest 01.90: MIDCPNIFTY24MAY11650PE
+14:25 lowest 84.25 FINNIFTY2470223400PE
+14:34 par lowest 07.50: FINNIFTY24MAY21800PE
+14:35 par lowest 10.55: MIDCPNIFTY2461011500PE
+14:35 lowest 20.20 MIDCPNIFTY2461411700PE 13:25 par 22.25
+15:15 lowest 24.30 MIDCPNIFTY2461411900PE
+
+
+aarti: 			11.0k		174k
+abb: 			8.34k 
+abbott: 		19.1k		54
+abcapital: 		211k		117k
+abfrl: 			91.1m		4.99m		48.4k
+acc: 			20.7k
+adanient: 		243k
+adaniports: 	778k
+alkem: 			56.8k		2.12k
+ambuja: 		87.4k		46.9k
+apollohosp: 	24.3k		10.5k
+apollotyre: 	29.1k		24.5k
+ashok: 			811k		556k
+asianpaint: 	59.9k		45.4k
+astral: 		10.1k		9.51k
+atul: 			13.9k		311			4.07k
+auropharma: 	18.2k		16k
+axis: 			404k		245k
+bajajauto: 		16.8k		3.81k
+bajajfinsv: 	53.4k		23.6k
+bajfinanace: 	84k			34.7k
+balkris: 		41.6k		5.32k
+balram: 		69.3k		35.4k
+bandhan: 		250k		933k		1.2m
+bankbaroda: 	832k
+bata: 			18k			17.7k
+bel: 			2.77m
+bergepaint: 	47.6k		47.3k		102k
+bharatforge: 	39.9k		14.2k		181k
+bharti: 		290k
+bhel: 			1.64m		935k
+biocon: 		196k		352k
+bosch: 			1.44k
+bpcl: 			407k
+bsoft: 			25.8k		204k
+canfin: 		587k		10.7k					9.55m(1 day)
+chambalfert: 	80k			30.9k		1.90m		459k		60.8m(1 day)
+cholafin: 		63.5k		59.2k
+cipla: 			42.2k		26.1k
+coal: 			428k
+coforge: 		15.6k
+colpal: 		57.7k		23.2k
+concor: 		183k		92.5k
+coromandel: 	10.7k		9.85k
+crompton: 		98.6k
+cub: 			205k		60.6k		804k
+cummins: 		104k		30k
+dabur: 			112k		57.6k
+dalbharat: 		42.2k		8.91k
+deepakntr: 		8.85k		46.9k
+divislab: 		12k
+dixon: 			5.73k
+dlf: 			183k
+drreddy: 		5.50k
+eicher: 		13.6k
+escorts: 		8.34k
+exide: 			150k
+federal: 		241k
+gail: 			2.67m
+glenmark: 		18.8k
+gmrinfra: 		1.70m
+gnfc: 			29.6k			856k
+godrejcp: 		39.4k
+godrejprop: 	14.6k
+granules: 		21.5k
+grasim: 		21.2k
+gujgas: 		40.8k
+hal: 			149k
+havells: 		18.2k
+hcltech: 		157k		79.5k
+hdfcamc: 		17.1k
+hdfcbank: 		972k
+hdfclife: 		210k
+heromotoco: 	29.6k
+hindalco: 		219k
+hindcopper: 	420k
+hindpetro: 		158k
+hindunilvr: 	42.5k
+icicibank: 		600k		1.52m
+icicigi: 		29.7k		98.3k
+icicipruli: 	48k			75.4k
+idea: 			30.2m		63m			32m		112m
+idfc: 			603k		254k		324k
+idfcfirst: 		856k		2.18m
+iex: 			274k		247k		650k
+igl: 			86.6k		1.56m
+indhotel: 		138k		239k		384k
+indiacem: 		90k			79.8k		731k	1.71m
+indiamart: 		5.90k		4.41k
+indigo: 		21.4k		49.7k
+indusind: 		68.4k		228k
+industower: 	343k		4.58m
+infy: 			206k		811k
+ioc: 			1.97m		1.04m
+ipca: 			28.7k		216k
+irctc: 			166k		156k
+itc: 			521k		340k
+jindalstel: 	115k		80.5k
+jkcement: 		5.51k		4.14k
+jswsteel: 		29.2k		142k
+jublfood: 		87.7k		169k
+kotak: 			242k		351k
+lalpath: 		4.65k		5.66k
+lauraslab: 		76k			1.03m	175k
+lichsgfin: 		136k		151k
+lt: 			131k		238k
+ltf: 			142k		109k		366k
+ltim: 			9.52k		24k
+ltts: 			15.5k		8.21k
+lupin: 			28.4k		80.1k		133k
+m&m: 			79.6k		161k
+m&mfin: 		61.6k		60.3k
+manapuram: 		138k		331k
+marico: 		157k		134k
+maruti: 		21.2k		20.5k		77.6k
+mcx: 			25k			41.6k
+metropolis: 	6.25k		3.57k
+mfsl: 			11.8k		38.4k
+mgl: 			261k		55.5k		114k	
+motherson: 		644k		1.82m
+mphasis: 		16k			18.2k		120k
+mrf: 			567			468
+muthootfin: 	21.3k		46k
+nationalum: 	665k		1.09m		492k
+naukri: 		40.8k		25k			23.3k
+navin: 			28.2k		29.2k		52k
+nestle: 		48.4k		76k
+nmdc: 			500k		502k		561k
+ntpc: 			1.03m		1.22m
+oberio: 		24.8k		81.1k
+ofss: 			8.15k		7.41k
+ongc: 			1.05m		1.14m
+pageind: 		2.16k		1.58k
+pel: 			73.8k		43.3k	38.9k	
+persistent: 	59.2k		28k		48.9k
+petronet: 		268k		377k
+pfc: 			1.75m		1.25m	1.30m	1.16m	1.05m 	556k
+
+piind: 			13.6k
+pvr: 			132k
+ramco: 			114k
+rbl: 			14.1k
+rec: 			1.09m
+sail: 			743k
+srf:			96.3k
+suntv: 			98.5k
+tatachem: 		130k
+techm: 			101k		
+vedl: 			653k
+wipro:			341k
+zydus: 			195k
+
+
+12 jun 24, wed at 17:30 
+Bitcoin (BTC) welcomed the soft inflation read, jumping to $69,400, up nearly 4% over the past 24 hours. (+2.27%)
+The core CPI, which excludes food and energy costs, rose 0.2% in May, better than forecasts for a 0.3% rise and versus 0.3% in April. 
+Year-over-year, core CPI rose 3.4% against expectations for 3.5% and April's 3.6%..
+Dow jumps more than 100 points, S&P 500 hits record on cool inflation data as Fed decision looms
+
+
+iex: 	167.5		166.4
+oberio: 1927.95		1924.95
+
+07 jun 24, fri
+Bitcoin Dips Below $70K, Reaches $68,450 Low, $86M in BTC Longs Liquidated
+The U.S. added 272,000 jobs in May, far more than expected, and above the 12-month average of 232,000.
+Treasury yields jumped following the report. The benchmark 10-year yield rose 14 basis points to more than 4.4%
+
+21 may 24, tue:
+Treasury yields dip ahead of Fed; crypto climbs (+7.86% on 20 may 24, mon) 
+Benchmark 10-year notes last rose 6/32 in price to yield 4.4139%, from 4.437% late on Friday, 17 may 24.
+The 30-year bond last rose 9/32 in price to yield 4.5558%, from 4.573% late on Friday, 17 may 24.
+
+20 may 24, mon:
+bitcoin (+7.86%)
+
+15 may 24, :
+Treasury yields drop after cool monthly consumer inflation data.
+bitcoin (+7.57%)
+
+03 may 24, :
+Stocks jump, yields drop as Fed cut hopes bloom.
+bitcoin (+6.45%)
+
+30 apr 24, :
+2-year Treasury yield surpasses 5% after employment cost data comes in hotter than expected (after data on labor costs rose more than forecasted)
+bitcoin (-4.96%)
+
+03 apr 24, wed:
+Bitcoin Back Down to $66K (-3.18%) (vol: 1.461M) as Rising Treasury Yields Catch Investor Interest
+
+GameStop (GME) shares tumbled 39% after the video game retailer unexpectedly reported first-quarter results and 
+announced plans to sell more stock for the second time in less than a month.
+
+when Amazon (AMZN) executed a 20-for-1 stock split in 2022, shares rose in the days following the split.
+"Historically, stock splits are bullish for companies that enact them, gaining 25% one year later vs. 12% for the broad index,"
+
+ 
+WIPRO		484.65	+4.6%	29.7	+3.4	71	TBA	12.0x	1.6		0.67	470
+RAMCOCEM	826.80	+4.6%	28.4	+0.2	33	TBA	11.6x	10.1	0.64	780
+MPHASIS		2553.90	+4.2%	38.4	-1.2	75	TBA	4.7x	3.8		0.63	2400
+BSOFT		677.35	+4.1%	41.3	+0.2	76	TBA	7.0x	2.0		0.64	650
+IDEA		15.65	+3.6%	61.6	+9.6	49	TBA	3.5x	0.4		0.55	15
+COFORGE		5424.85	+3.6%	40.5	+0.5	84	TBA	6.2x	2.6		0.49	5300
+LTIM		4948.25	+3.5%	30.5	0.0		57	TBA	5.4x	2.6		0.58	4800
+
+crudeoil: upmove in 60 mins, same down move in 160 mins. (means 3 hours tak order filling)
+top jaane k baad atleast 6 sessions tak wait karo. (eg: industower)
+
+ioc: result day down -4.6% (effect dikha bpcl, hindpetro aur ongc par bhi)
+
+26 apr 24, fri: 
+sbicard, sbilife - 26th apr 24 ko result aaya aur gira, fir next day (29th) bhi gira
+sbilife: 
+ltts result (25 apr 24) k ek din baad 10% -ve
+techm result (25 apr 24) k ek din baad 8% +ve
+
+long candle k baad atleast 10 sessions tak wait karo; eg: cummins, 
+
+1020 tak lowest jaayega
+0925 tak lowest
+
+hedge: https://www.youtube.com/watch?v=4UJa5Y8kk44
+
+abfrl and abcapital bhot zada girte h.
+atul and pageind girte hi ja re h.
+
+22 mar 24: infy 3% -ve. 1600 ka pe option 38.50 par tha prev day, open hua 29.85 par and low gaya 17 - 22 pts ka diff
+22 mar 24: hcl 3% -ve. 1500 ka pe option prev day 1.4 par tha, 4.4 par open hua, 16.25 high gaya.
+
+dates to check:
+12 sep 2023
+31 oct 2023
+
+bade fall k baad 5 chote fall tak wait karo
+Stocks usualy goes down after The Exchange has sought clarification for price and volume movement
+The Exchange has sought clarification from 2024
+CLEDUCATE, AIML, ASIAPAK, GSS-BE, GRPLTD, EVANS, 
+
+TATACONSUM24JAN1000PE - took 10 days to reach 1.00 from 3.45
+
+resistances/support:
+04-05 Jun 2024: v strong support, huge buying by fii/dii
+abfrl: 480 
+idea: 12.05
+chambalfert: 333.4
+nationalum: 147.15
+rblbank: 222.15
+mcx: 2917.85
+iex: 134.15
+navinflour: 2875.95
+hindcopper: 277.9
+trent: 4196
+industower: 292
+indhotel: 506.45
+lichsgfin: 544.8
+ashok: 192
+balram: 352
+ambuja: 518.35
+sail: 124.8
+federal: 148
+exide: 429.2
+crompton: 358
+balkris: 2780
+bandhan: 169.15
+mcdowell: 1136.3 (didn't crash much on election day)
+indusind: 1363.55
+voltas: 1239.5
+zeel: 125.5
+gmr: 70.65
+adaniports: 1160
+canfin: 680
+motherson: 134.5
+granules: 401.25
+idfs: 105
+bata: 1269
+upl: 478
+persistent: 3232.05
+hdfcamc: 3430
+bosch: 27500
+hindalco: 594.25
+indiacem: 172.55
+gujgas: 490
+dixon: 8454.3
+indigo: 3868.25
+tatasteel: 148.15
+pageind: didn't crash on election day
+icicigi: 1480.5
+manapuram: 156.1
+OBEROIRLTY: 1601.35
+M&MFIN: 256.35
+M&M: 2448.2
+cub: 130.4
+TVSMOTOR: 2069
+MUTHOOTFIN: 1579.1
+NAUKRI: 5250
+OFSS: 7022.55
+UBL: 1830.6
+SUNTV: 631.6
+ACC: 2150
+INDIAMART: 2230
+TATAPOWER: 371.65
+heromoto: didn't crash
+aubank: 605.9
+ATUL: 5174.85
+AUROPHARMA: 1109.45
+AARTIIND: 563
+MARICO: 590
+GLENMARK: 1037.15
+ADANIENT: 2750
+BIOCON: 270
+LAURUSLABS: 385.45
+GODREJCP: 1251.7
+VEDL: 366.3
+BSOFT: 565.3
+ASTRAL: 1931.4
+BAJFINANCE: 6375.7
+SHRIRAMFIN: 2193
+CANBK: 96.2
+COROMANDEL: 1245.55 (didn't crash much)
+PNB: 104.2
+LTTS: 4200
+LTF: 144.6
+colpal: didn;t crash
+METROPOLIS: 1798.05
+POLYCAB: 6137
+JINDALSTEL: 901.2
+MRF: 116347.85
+TATACONSUM: 1028.9
+ZYDUSLIFE: 933.8
+ABCAPITAL: 195.5
+KOTAKBANK: 1602.45
+CONCOR: 880.7
+SBICARD: 647.95
+BERGEPAINT: 439
+TATACOMM: 1585.55
+MPHASIS: 2187
+BHARATFORG: 1406.25
+AXISBANK: 1101.55
+ABBOTINDIA: 25588.55
+SRF: 2089.1
+ONGC: 223
+RAMCOCEM: 700
+HDFCBANK: 1454
+HINDUNILVR: didn't crash
+BANKBARODA: 258
+DIVISLAB: 4180.5
+PVRINOX: 1204.2
+COALINDIA: 410.8
+MGL: 1180.35
+APOLLOTYRE: 429
+CHOLAFIN: 1197.6
+TATACHEM: 960.05
+JSWSTEEL: 823.8
+LUPIN: 1493.3
+SBILIFE: 1307.7
+DABUR: didn't crash
+PFC: 395.2
+IPCALAB: 1073.6
+DLF: 687.05
+ITC: 402.85
+CUMMINSIND: 3110.15
+ASIANPAINT: 2775.75
+PETRONET: 253.4
+DEEPAKNTR: 2021
+SUNPHARMA: 1377.2
+GODREJPROP: 2492.1
+BAJAJ-AUTO: didn't crash much
+ICICIPRULI: 515.45
+BHARTIARTL: 1219.05
+TORNTPHARM: 2570.45
+NMDC: 211.15
+ICICIBANK: 1051.05
+NESTLEIND: 2327.45
+PIDILITIND: didn't crash 
+HCLTECH: 1235
+HDFCLIFE: 511.4
+BHEL: 224.05
+ioc: 147.8
+TATAMOTORS: 855.4
+MFSL: 854
+WIPRO: 417
+SHREECEM: 23700
+BRITANNIA: didn't crash 
+BAJAJFINSV: 1419.05
+MARUTI: 11561.45
+ALKEM: 4407.05
+NTPC: 313.95
+TECHM: 1193.65
+SIEMENS: 5819.2
+INFY: 1358.35
+PEL: 736.6
+GAIL: 173.5
+DALBHARAT: 1651.4
+TITAN: 3055.65
+HINDPETRO: 462
+PIIND: 3441.05
+CIPLA: 1418.55
+GRASIM: 2171.6
+JKCEMENT: 3642
+BEL: 230
+RELIANCE: 2718.6
+GNFC: 596.65
+DRREDDY: 5600
+SBIN: 744.05
+LTIM: 4513.55
+EICHERMOT: 4253.85
+SYNGENE: 607.65
+APOLLOHOSP: 5693.2
+HAVELLS: 1711.25
+RECLTD: 408.3
+IGL: 423
+ULTRACEMCO: 9534.95
+POWERGRID: 279.2
+TCS: 3591.5
+IRCTC: 845.3
+HAL: 3920
+BPCL: 534.2
+LT: 3175.05
+
+
+
+dlf 810 support
+oberoi 1445 supp, 1500, 1550 strong support
+godrejprop 2650 support
+coforge 4287.25 strong support 
+lt 3225.2 strong support
+jublfood 502.4 strong resistance
+powergrid 309 strong support
+vedl 461.8 support
+sunpharma 1467 strong support
+lupin 1591.15, strong support
+cummins 3211 strong support
+tatachem 933, 
+crompton 277, 
+bata 1381, 
+bharti 1100, 
+tittan 3503, 
+ashokley 165, 
+dixon 6472, 5782, 
+aarti 643, 623, 580, 558, 
+metropolis ka 1750 strong
+hindcopper ka 263 strong
+biocon ka 275 strong
+sbin ka 620 strong
+kotak 1750
+axis ka 1055
+canfin 762, 749, 742, 734, 721, 692, 
+iex s1-138
+rblbank 264, 254, 242, 
+ipcalab 1168, 1134, 1101, 1061, 1041, 
+indiamart 2501, 
+CRUDEOIL24FEB6500CE ka 90 strong support
+
+
+gas: gujgas, igl, mgl
+petrol: hindpetro, bpcl, iol
+pri bank: hdfc, icici, axis, indusind, rbl, idfc, kotak, bandhan, aubank, bankbaroda, 
+pub bank: sbi, pnb, federal, canbk, cub, 
+finance: pfc, rec, shriramfin, canfin, l&tfh, lichsgfin, m&mfin, cholafin, manapuram, abcapital, bajfinance, muthootfin, hdfcamc, 
+finance service: mfsl, bajajfinsrv, 
+lifeins: sbilife, hdfclife, icicipruli, icicigi, 
+metal: hindcopper, nationalum, tatasteel, jindal, jsw, bharatforge,  
+power: coalindia, powergrid, 
+fmcg: tataconsum, britania, colpal, hindunilvr, nestle, godrejcp, itc, dabur, marico, jublfood, 
+realty: gmr, dlf, godrej
+media: pvr, sun, zeel
+elec: havells, voltas, exide, bosch, crompton, dixon, 
+auto 4: maruti, eicher, ashok, m&m, escorts, tatamotors
+auto 2: heromoto, tvs, bajajauto
+labs: divis, lalpath, laurus, 
+pharma: auro, torent, biocon, syngene, glenmark, zydus, abbot, cipla, lupin,  
+fert/chem: deepak, chambal, alkem, tatachem, upl, coromandel, aarti, gnfc, navinflour, srf, 
+ongc, nmdc, ntpc, gail, sail, bhel, ongc, 
+dist: ubl, mcdowell, 
+tyres: apollo, mrf, balkris, 
+healthcare/hosp: apollo, metropolis, 
+it: tcs, wipro, infy, hcl, bsoft, mphasis, persistent, ofss, lt, coforge, naukri, 
+cement: jk, acc, ramco, ultratech, shreecem, ambuja, 
+pipes: astral
+fashion: abfrl, titan, bata, grasim, pageind, trent,  
+paints: asian, berger, 
+auto ind: atul, 
+sugar: balramchini, 
+comm: idea, tatacomm, bharti, 
+hotels: indhotel, 
+aviation: indigo, 
+multi-business: reliance, dalbharat, bharatforge, 
+industry: lt, abb, cummins, 
+
+
+11 jan 24: heromoto, bajajauto, tvsmotor - all up by 5-6% but four wheeler stocks such as ashokley, maruti, m&m, escorts, eicher didn't go up.
+11 jan 24: shriramfin, m&mfin, l&tfh, abcapital go up but lichsgfin, canfinhome, pfc and rec didn't.
+
+29 dec 23: hindpetro, bpcl, ioc down by 5.1, 3.5, 2.7 resp.
+
+federal ce low .45 / 
+powergrid pe low 1.1, 1.4 / 
+bajfinance ce low 34 / 
+aartind ce low 0.8 / 
+bergepaint / pe low 3
+bajajauto ce low 30.35
+auropharma ce low 31.45
+pfc ce low 5.15
+rec ce low 4.60
+tatacomm ce low 30 / 
+pageind 42000 ce low jan month 31.4 / 400.05 (feb month)
+pageind 40000 ce low 80 jan month / 
+ofss ce ka low 9.1 / 
+hindunilvr pe 4.25 / ce ka 
+bosch ce ka low 200 / pe ka low 20
+ltim ka low 137
+godrejprop ka low is 21.6
+balkris ka low is 31.4 for first price; 12.5 for second price
+abfrl pe ka low is 0.35 (strike price range - 250 to 235)
+bataindia ka low 13.25
+biocon pe ka low 1.2; closest pe ka low is 4.35
+tataconsum pe ka low is 1.3
+abbot ce ka low 38.25 / 
+indhotel ce low is 0.6
+hal ce low is 50
+polycab ka low 8 points tak h.
+ultracemco ka low 1.7 points tak h.
+nationalum ka low 3.8 h.
+gail ka 0.5
+sail ka 0.4
+chambalfert ka 1.35 h
+chambalfert ce ka low 6.55
+deepakfert ka 9.9, 10.7, 10.95, 12.5, 14.9, 
+suntv ka 6.15, 9.5
+voltas ka 0.25, 0.55, 0.75, 2.3
+siemens ka 0.15, 3.05, 3.1, 3.2, 
+pvrinox ka 1.4
+hindcopper ka 1.2, 1.75
+nestle ce ka 44.70
+coalindia ka 0.5
+irctc ka 1.6, 2.05
+industower ka 4.05, 4.85, 5.3
+
+
+00: indigo me 10 points ka up/down dekhna h option me. 8% ka diff.
+01: 
+
+0. 26 oct 23: balkris doesn't fall much on 26th oct. Others fall a lot.
+1. 07 nov 23: trent me 2.80k ki tiny candle (compared to 400 candles) k baad 10% ka up move 
+2. 06 nov 23: aartind 3k k comparion me 27k ki 0915 candle - 10.6% ka up move
+3. 06 nov 23: jkcement 250-500 k comparisom me 1.75k - 8.7 ka up move
+4. 16 nov 23: drreddy, lalpathlab, sunpharma, auropharma, natcopharma (ek saath up hue)
+				banks down gaye but life and amc sab upar gaye
+5. nov 23: hindpetro, bpcl, ipca, trent, alkem, sunpharma, sunpharma, auropharma, torentpharma, divislab, - up
+		   crudeoil - dwn
+6. 23 nov 23: cipla morning se hi girta gaya. 15 times	atm iv 33, iv change +11.0, ivp 99
+			  hindpetro morning se hi chadta gaya. 		atm iv 32, iv change +2.9, ivp 88 / atm iv 38, iv change +8.0, ivp 98
+			  
+7. 29 nov 23: manapuram 16 nov ko 162.3 tha, 6 din down gaya and 29th ko 163.2 gaya, 7.3% up
+Stock 			Fut Price 		ATM IV		IV Chg		IVP		Result 		Volume		OI% Chg.	PCR		Max Pain
+MANAPPURAM		163.95 +7.3%	43.9		+3.5		74		TBA			2.6x		15.7		0.73	155
+
+8. 29 nov 23: Muthootfin - 6 sessions consolidation k baad 6.1% up
+9. 29 nov 23: aartind - last big green candle k baad 15 sessions k baad again green, 5.7% up
+
+10. 29 nov 23: lichsgfin - 6 sessions consolidation k baad 4.0% up 		
+
+11. ACC, 6th dec ko high gaya (not ath), toh 2000 dec ka pe option tha 15.65, but 7th and 8th ko neeche gaya aur fir bhi 2000 dec ka pe option 13.85 ho gaya.
+
+12. asianpaint ki 7th ko buy call thi net par. 7th ko 9:32 tak upar gaya and fir full day neeche aata raha. Even next day 8th ko bhi. (stock last week high hi chal raha tha)
+13. adaniports ki 8th ko buy call thi. 8th ko only 9:15 par upar gaya and uske baad 13:45 tak neeche gira. (stock last week high hi chal raha tha)
+14. bel ki 7th ko 190 ki buy call thi. 8th ko 09:17 tak upar gaya and fir 13:49 tak neeche gira. (stock last week high hi chal raha tha)
+15. pvrinox ki 7th ko 2240 ki buy call thi. 7th ko toh thoda upar gaya but 8th ko 09:36 tak upar gaya fir 13:50 tak neeche gira. (stock last week high hi chal raha tha)
+16. drreddy ki 8th ko 6373 ki buy call thi but 0915 se neeche girta raha 1255 tak. (stock last week high hi chal raha tha)
+17. coromandel ki 8th ko buy call thi but 0916 se 1305 tak neeche girta raha. (stock last week high hi chal raha tha)
+18. cholafin ki 8th ko buy call thi. 0920 se 0931 se 1012 se 1111 tak neeche gira, fir 1520 tak upar chadta gaya. ((stock last week low hi chal raha tha))
+19. idfcfirst bank ki 7th ko news aayi thi. 7th ko toh stock down open hua aur ek hi range me raha. 8th ko upar gaya but fir waha se down aagaya (89.50 se 86).
+20. banks sbin, federal thoda gire but hdfclife, sbilife, icicipruli, hdfcamc upar gaye.
+00. 08 dec 23: rbi interest rate pause. nifty, bank nifty all up.
+21. 14 dec 23: us fed rate pause transferred well in indian market. nifty, bank nifty, finance all up.
+22. shriramfin: big candle after every 6-7 days
+23. 
+
+
+MCX		2945.25		+3.0%		65.5	+40.7	100	TBA	1.1x	-4.1	1.04	2600
+	   
+
+sbilife: 04 07 08 aug 2023 - UP
+sbin: 	 01 02 03 04 aug 2023 - DWN
+sbicard: 01 aug 2023 - UP
+
+hdfcbank: 07 08 09 10 11 aug 2023 - DWN
+hdfclife:
+hdfcamc: 02 03 04 aug 2023 - DWN
+
+icicibank: 01 02 03 aug 2023 - DWN
+icicipruli: 01 02 aug 2023 - DWN
+icicigi: 01 02 03 aug 2023 - DWN
+
+Shorting means expecting market to go down…
+If after shorting, market shoots up, the people who are short will run to cover their positions(short covering)… i.e. to buy and square off their positions.
+
+This in turn leads to more bullishness… (new buyers + people covering their existing short positions )
